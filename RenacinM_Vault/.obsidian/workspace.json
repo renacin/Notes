@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "601ae59cf86cb42e",
+    "type": "split",
+    "children": [
+      {
+        "id": "621de3e730cfa5d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fc898f207af504a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0363f28e216f92b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "af4dea357df738df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66f27d6e405d9628",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1e47044021e14eab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c1a31b8cd2aa3256",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9cc10ed3a390a8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2057d0b84448bee1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ac76c7b4b23106c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Engineering/Introduction To Data Engineering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction To Data Engineering"
+            }
+          },
+          {
+            "id": "656ae971102192cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Engineering/Introduction To Data Engineering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduction To Data Engineering"
+            }
+          },
+          {
+            "id": "0d2321aeead6b247",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "849ee301558821e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Engineering/Introduction To Data Engineering.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introduction To Data Engineering"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "66f27d6e405d9628",
+  "lastOpenFiles": [
+    "Programming/Python/TensorFlow",
+    "Programming/Python/Numpy",
+    "Statistics",
+    "Programming/Data Science/Machine Learning",
+    "Programming/SQL",
+    "Programming/Python/Pandas",
+    "Programming/Data Science",
+    "Programming/Python",
+    "Programming",
+    "Programming/Data Engineering/Introduction To Data Engineering.md",
+    "Becoming A Data Engineering.md",
+    "Programming/Data Engineering"
+  ]
+}
