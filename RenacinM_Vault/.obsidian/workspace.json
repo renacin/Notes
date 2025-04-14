@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "621de3e730cfa5d3",
+        "id": "5897a021f0f12b8e",
         "type": "tabs",
         "children": [
           {
-            "id": "5fc898f207af504a",
+            "id": "7fc0a4f8a36030ea",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66f27d6e405d9628",
+  "active": "7fc0a4f8a36030ea",
   "lastOpenFiles": [
+    "Programming/Data Engineering/Introduction To Data Engineering.md",
     "Programming/Python/TensorFlow",
     "Programming/Python/Numpy",
     "Statistics",
@@ -175,7 +176,6 @@
     "Programming/Data Science",
     "Programming/Python",
     "Programming",
-    "Programming/Data Engineering/Introduction To Data Engineering.md",
     "Becoming A Data Engineering.md",
     "Programming/Data Engineering"
   ]
