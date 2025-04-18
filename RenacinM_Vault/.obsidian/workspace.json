@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba7570266a4a08df",
+        "id": "404cca2758c72ea9",
         "type": "tabs",
         "children": [
           {
-            "id": "32edd32a1590c762",
+            "id": "88e39aee6c4c636a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66f27d6e405d9628",
+  "active": "88e39aee6c4c636a",
   "lastOpenFiles": [
     "Programming/Data Engineering/2. Data Engineering Lifecycle.md",
     "Programming/Data Engineering/3. Data Architecture.md",
