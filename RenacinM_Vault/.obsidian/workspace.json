@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Apache Spark/1. Introduction To Spark.md",
+                "file": "Programming/Apache Spark/2. PySpark Functions & Operations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction To Spark"
+              "title": "2. PySpark Functions & Operations"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "88e39aee6c4c636a",
   "lastOpenFiles": [
-    "Programming/Data Engineering/1. Introduction To Data Engineering.md",
     "Programming/Apache Spark/1. Introduction To Spark.md",
+    "Programming/Apache Spark/2. PySpark Functions & Operations.md",
+    "Programming/Data Engineering/1. Introduction To Data Engineering.md",
     "Programming/Data Engineering/3. Data Architecture.md",
     "Programming/Apache Spark",
     "Programming/Data Engineering/2. Data Engineering Lifecycle.md",
